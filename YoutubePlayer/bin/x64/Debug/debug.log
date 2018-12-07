@@ -1,0 +1,63 @@
+[1123/113409.877:INFO:CONSOLE(100)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('null').", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl8_u944/www-widgetapi.js (100)
+[1123/113412.457:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1123/113412.524:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1123/113514.279:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1123/113514.287:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1123/142304.625:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1123/142304.794:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1123/151139.464:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1123/151144.487:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1123/151149.504:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1123/151154.520:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1123/151159.535:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1123/151204.549:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1123/151209.562:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1123/151214.577:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1123/151219.590:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1123/151224.596:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1123/151229.601:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1123/151234.610:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1123/151239.617:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1123/151244.644:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1123/151249.653:WARNING:dns_config_service_win.cc(669)] Failed to read DnsConfig.
+[1126/101414.694:INFO:CONSOLE(100)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('null').", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl8_u944/www-widgetapi.js (100)
+[1126/101414.929:INFO:CONSOLE(100)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('null').", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl8_u944/www-widgetapi.js (100)
+[1126/101416.833:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1126/101417.413:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1126/101417.878:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1126/101418.004:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1126/101752.357:INFO:CONSOLE(100)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('null').", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl8_u944/www-widgetapi.js (100)
+[1126/101752.602:INFO:CONSOLE(100)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('null').", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl8_u944/www-widgetapi.js (100)
+[1126/101754.121:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1126/101754.156:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1126/101754.601:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1126/101754.844:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1126/101836.244:INFO:CONSOLE(100)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('null').", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl8_u944/www-widgetapi.js (100)
+[1126/101836.486:INFO:CONSOLE(100)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.youtube.com') does not match the recipient window's origin ('null').", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vfl8_u944/www-widgetapi.js (100)
+[1126/101837.600:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1126/101837.612:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1126/101838.213:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1126/101838.215:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1126/121238.958:INFO:CONSOLE(8)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://youtubemp3api.com') does not match the recipient window's origin ('null').", source: https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.14/iframeResizer.min.js (8)
+[1126/121243.947:INFO:CONSOLE(8)] "[iFrameSizer][Host page: iFrameResizer0]", source: https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.14/iframeResizer.min.js (8)
+[1126/121248.846:INFO:CONSOLE(8)] "[iFrameSizer][Host page: iFrameResizer0]", source: https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.14/iframeResizer.min.js (8)
+[1126/133640.655:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[1126/133640.682:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[1127/104632.814:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[1127/104632.893:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[1127/104636.016:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[1127/104636.016:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[1127/104636.093:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[1127/104636.093:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[1127/104636.360:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[1127/104636.360:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[1127/104638.662:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[1127/104638.662:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[1127/104654.194:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[1127/104654.223:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[1127/104905.249:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[1127/104905.249:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[1127/105048.092:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[1127/105048.092:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[1127/105209.363:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[1127/105209.363:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN

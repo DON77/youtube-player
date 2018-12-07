@@ -1,0 +1,14 @@
+[1123/105619.479:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
+[1123/105620.544:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
+[1123/105620.545:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[1123/105903.459:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
+[1123/105903.596:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[1123/105945.722:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
+[1123/105946.011:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
+[1123/105946.013:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[1123/110103.683:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
+[1123/110103.878:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
+[1123/110103.880:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[1123/110402.693:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
+[1123/110402.866:ERROR:browser_gpu_channel_host_factory.cc(132)] Failed to launch GPU process.
+[1123/110402.874:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
